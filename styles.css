@@ -7,7 +7,8 @@
     text-align: center;
  }
  .projects { 
-   display:flex; flex-wrap:wrap; 
+   display:flex;
+    flex-wrap:wrap; 
 }
 .project {
 width: 30%;
