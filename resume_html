@@ -1,1 +1,55 @@
+<!-- ChatGPT was used to create outline, and explain the properties of this code.  I didn't copy and paste any generated code into this file. -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Resume - Jabari Damani Buchanan-Rashid</title>
+    </head>
 
+    <body>
+
+    <h1><strong>JABARI DAMANI BUCHANAN-Rashid</strong></h1>
+        <p>Columbia, SC | (000) 000-0000 | JabariB@notreal.email.com</p>
+    
+    <h2><strong>PROFESSIONAL SUMMARY</strong></h2>
+        <p>
+            First-year Computer Science student at the University of South Carolina focused on learning Java,
+            Python, and the basics of software development. I'm interested in software development and 
+            cybersecurity; I'm working toward a carrer in one of these fields.
+        </p>
+    
+    <h2><strong>EDUCATION</strong></h2>
+        <p>
+            <strong>University of South Carolina - Columbia, SC</strong><br>
+            Bachelor of Science in Computer Science | Expect Graduation: May 2029
+        </p>
+
+        <p>
+            <strong>Venetura College - Ventura, CA</strong> | <strong>Northeastern Technical College - Chreaw, SC</strong><br>
+            General Education Coursework
+        </p>
+
+    <h2><strong>SKILLS</strong></h2>
+        <ul>
+            <li>Python and Java (Beginner)</li>
+            <li>Troubleshooting and Problem Solving</li>
+            <li>Leadership and Teamwork</li>
+            <li>Communication and Time Management</li>
+        </ul>
+
+        <h2><strong>PROJECTS</strong></h2>
+        <p>
+            <strong>Java Coffee Hour Program (CSCE 145)</strong> - Created a basic Java program using input, loops, 
+            and if-statements. Practiced debugging and writing simple logic.
+        </p>
+
+        <h2><strong>EXPERIENCE</strong></h2>
+        <p>
+            <strong>United States Navy</strong> | SEP 2020 - SEP 2025
+        </p>
+        <ul>
+            <li>Led teams of up to nine personnel performing maintenance and repairs on advanced systems.</li>
+            <li>Trained and supervised junior technicians to improve safety and performance.</li>
+            <li>Recognized for reliability, attention to detail, and leadership under pressure.</li>
+        </ul>
+    </body>
+    </html>
